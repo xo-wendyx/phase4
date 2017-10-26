@@ -70,19 +70,19 @@ body{
 
 @media screen and (max-width:800px) {
   .myslides{ 
-  height: 100vh;
-  width: 40vw; 
+  height: 40vh;
+  width: 100vw; 
   }
   .column2{ 
-  height: 100vh;
-  width: 40vw;
+  height: 40vh;
+  width: 100vw;
   } 
   .column1{ 
-    height: 100vh; 
-    width: 30vw; 
+    height: 30vh; 
+    width: 100vw; 
   }
    .column3{ 
-    height: 100vh; 
-    width: 30vw; 
+    height: 30vh; 
+    width: 100vw; 
   }
 }
