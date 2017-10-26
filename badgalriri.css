@@ -92,7 +92,7 @@ body{
   flex-wrap: wrap;
 }
 .box1 { 
-  height:100% calc(100%/2 - 4px); 
+  height:100%; 
   width: calc(100%/2 - 4px);
 }
 
