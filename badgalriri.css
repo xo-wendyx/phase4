@@ -67,3 +67,18 @@ body{
 .info7{
   background-color: #FA0C0C;
 }
+
+@media screen and (min-width:800px) {
+  .column2{ 
+  height: 40vh;
+  width: 100vw;
+  } 
+  .column1{ 
+    height: 30vh; 
+    width: 100vw; 
+  }
+   .column3{ 
+    height: 30vh; 
+    width: 100vw; 
+  }
+}
