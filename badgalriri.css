@@ -83,4 +83,16 @@ body{
 .box{ 
   height: 100%;
   width: calc(100%/3 - 4px);  
+} 
+  
+ .column2{ 
+  height: 40vh;
+  width: 100vw;
+  display: flex;
+  flex-wrap: wrap;
 }
+.box1 { 
+  height:100% calc(100%/2 - 4px); 
+  width: calc(100%/2 - 4px);
+}
+
