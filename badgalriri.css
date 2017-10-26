@@ -72,25 +72,17 @@ body{
   .myslides{ 
   height: 40vh;
   width: 100vw; 
-    text-align: center;
-		display: block;
   }
   .column2{ 
   height: 40vh;
   width: 100vw;
-  text-align: center;
-	display: block;
   } 
   .column1{ 
     height: 30vh; 
     width: 100vw; 
-    text-align: center;
-		display: block;
   }
    .column3{ 
     height: 30vh; 
     width: 100vw; 
-    text-align: center;
-		display: block;
   }
 }
