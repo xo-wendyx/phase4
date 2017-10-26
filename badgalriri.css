@@ -73,16 +73,9 @@ body{
   height: 40vh;
   width: 100vw; 
   }
-  .column2{ 
-  height: 40vh;
-  width: 100vw;
-  } 
-  .column1{ 
-    height: 30vh; 
-    width: 100vw; 
-  }
-   .column3{ 
-    height: 30vh; 
-    width: 100vw; 
-  }
+ .column1, .column3{
+  height: 30vh; 
+  width: 100vw; 
+  display: flex;
+  flex-wrap: wrap;
 }
