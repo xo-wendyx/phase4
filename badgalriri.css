@@ -68,7 +68,7 @@ body{
   background-color: #FA0C0C;
 }
 
-@media screen and (min-width:800px) {
+@media screen and (max-width:800px) {
   .column2{ 
   height: 40vh;
   width: 100vw;
