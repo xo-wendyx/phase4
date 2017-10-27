@@ -75,6 +75,10 @@ body{
   display: block;
   text-align: center;
   }
+  .box1 { 
+  height: calc(100%/2 - 4px); 
+  width: 100%;
+  }
 }
  
 
