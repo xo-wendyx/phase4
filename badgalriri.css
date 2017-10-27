@@ -79,6 +79,16 @@ body{
   height: calc(100%/2 - 4px); 
   width: 100%;
   }
+  .box{ 
+  height: calc(100%/3 - 4px);
+  width: 100%;  
+}
+  .column2{ 
+  height: 100vh;
+  width: 40vw;
+  display: flex;
+  flex-wrap: wrap;
+  }
 }
  
 
