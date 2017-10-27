@@ -73,7 +73,6 @@ body{
   height: 100vh; 
   width: 30vw; 
   display: block;
-  text-align: center;
   }
   .box1 { 
   height: calc(100%/2 - 4px); 
@@ -86,9 +85,14 @@ body{
   .column2{ 
   height: 100vh;
   width: 40vw;
-  display: flex;
-  flex-wrap: wrap;
+  display: block;
   }
+  body{ 
+  height: 100vh; 
+  width: 100vw; 
+  display: block; 
+  background-color: #E7E8EA;
+}
 }
  
 
