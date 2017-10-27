@@ -76,31 +76,22 @@ body{
  .column1, .column3{
   height: 30vh; 
   width: 100vw; 
-  display: flex;
-  flex-wrap: wrap;
+  display: block;
 }
   
  .column2{ 
   height: 40vh;
   width: 100vw;
-  display: flex;
-  flex-wrap: wrap;
+  display: block;
 }
   .box1 { 
   height: calc(100%/2 - 4px); 
   width: 100%;
 }
-  .box{ 
+.box{ 
   height: calc(100%/3 - 4px);
   width: 100%;  
-}
-  body{ 
-  height: 100vh; 
-  width: 100vw; 
-  display: flex; 
-  flex-wrap: wrap; 
-  background-color: #E7E8EA;
-  }
+   }
 }
 
 
