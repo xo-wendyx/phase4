@@ -69,59 +69,12 @@ body{
 }
 
 @media screen and (max-width:800px) {
-  .myslides{ 
-  height: 40vh;
-  width: 100vw; 
-  }
- .column1, .column3{
-  height: 30vh; 
-  width: 100vw; 
+  .column1, .column3{
+  height: 100vh; 
+  width: 30vw; 
   display: block;
+  text-align: center;
 }
-  
- .column2{ 
-  height: 40vh;
-  width: 100vw;
-  display: block;
-}
-  .box1 { 
-  height: calc(100%/2 - 4px); 
-  width: 100%;
-}
-.box{ 
-  height: calc(100%/3 - 4px);
-  width: 100%;  
-   }
-  .info3{
-  background-color: #F35252; 
-}
-
-.info4{ 
-  background-color: #526FF3;
-}
-
-.info5{
-  background-color: #F3BB52;
-}
-
-.info6{ 
-  background-color: #33F141;
-} 
-
-.info7{
-  background-color: #FA0C0C;
-}
-  .info0{
-  background-color: #B152F3; 
-}
-
-.info1{
-  background-color: #52CAF3;
-}
-
-.info2{ 
-  background-color: #F352E2;
-}
- }
+ 
 
 
