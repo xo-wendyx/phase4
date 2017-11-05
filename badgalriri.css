@@ -78,7 +78,7 @@ body{
   .column1, .column3{
      height: 50vh; 
      width: 100vw;
-     display: flex;
+    justify-content: center;  
   }
   .box1 { 
   height: 80%; 
