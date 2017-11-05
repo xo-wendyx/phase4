@@ -78,6 +78,7 @@ body{
   .column1, .column3{
      height: 50vh; 
      width: 100vw;
+     display: flex;
   }
   .box1 { 
   height: 80%; 
@@ -90,6 +91,7 @@ body{
   .column2{ 
   height: 50vh;
   width: 100vw;
+  display: flex;
  
 }
   .myslides{ 
