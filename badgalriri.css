@@ -72,7 +72,6 @@ body{
  .column1, .column3{
    height: 50vh; 
    width: 100vw;
-   display: block;
    justify-content: center;
   }
   .box1 { 
@@ -88,7 +87,6 @@ body{
   .column2{ 
   height: 50vh;
   width: 100vw;
-  display: block;
   justify-content: center;
 }
   .myslides{ 
