@@ -69,32 +69,22 @@ body{
 }
 
 @media screen and (max-width:800px){
- .column1, .column3{
-   height: 50vh; 
-   width: 100vw;
-   justify-content: center;
-  }
-  .box1 { 
-  height: 80%; 
-  width: 80%;
-  margin-top: 5%;
-  }
-  .box{ 
-  height:80% ;
-  width: 80%; 
-  margin-top: 5%;
-}
-  .column2{ 
-  height: 50vh;
-  width: 100vw;
-  justify-content: center;
-}
   .myslides{ 
   height: 50vh;
   width: 100vw; 
   background-color: #AB1D23;
   }
-.info0{
+ .column1, .column3{
+   height: 50vh; 
+   width: 100vw;
+   justify-content: center;
+  }
+   .box{ 
+  height:80% ;
+  width: 80%; 
+  margin-top: 5%;
+}
+  .info0{
   background-color: #B152F3; 
 }
 
@@ -105,6 +95,16 @@ body{
 .info2{ 
   background-color: #F352E2;
 }
+  .column2{ 
+  height: 50vh;
+  width: 100vw;
+  justify-content: center;
+}
+  .box1 { 
+  height: 80%; 
+  width: 80%;
+  margin-top: 5%;
+  }
 .info3{
   background-color: #F35252; 
 }
