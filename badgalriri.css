@@ -79,7 +79,7 @@ body{
    width: 100vw;
    justify-content: center;
   }
-   .box{ 
+ /*  .box{ 
   height:80% ;
   width: 80%; 
   margin-top: 5%;
@@ -94,13 +94,13 @@ body{
 
 .info2{ 
   background-color: #F352E2;
-}
+} */
   .column2{ 
   height: 50vh;
   width: 100vw;
   justify-content: center;
 }
-  .box1 { 
+ /* .box1 { 
   height: 80%; 
   width: 80%;
   margin-top: 5%;
@@ -123,7 +123,7 @@ body{
 
 .info7{
   background-color: #FA0C0C;
-  }
+  } */
 }
  
 
