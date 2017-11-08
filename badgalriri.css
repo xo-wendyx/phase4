@@ -70,30 +70,34 @@ body{
 
 @media screen and (max-width:800px){
   .myslides{ 
-  height: 50vh;
-  width: 100vw; 
-  background-color: #AB1D23;
+    height: 50vh;
+    width: 100vw; 
+    background-color: #AB1D23;
   }
- .column1, .column3{
-   height: 50vh; 
-   width: 100vw;
+
+ .column1,.column3{
+   height: calc(180vw + 15px); 
+   width: 100%;
    justify-content: center;
   }
-  .column2{ 
-  height: 50vh;
-  width: 100vw;
-  justify-content: center;
- }
-  .box1 { 
-  height: 80%; 
-  width: 80%;
-  margin-top: 5%;
+
+  .box { 
+    height: 60vw; 
+    width: 60vw;
+    margin-top: 5px;
   }
-  .box{ 
-  height:80%;
-  width: 80%; 
-  margin-top: 5%;
-}
+  
+  .box1{
+    height: 60vw;
+    width: 60vw;
+    margin-top: 5px;
+  }
+  .column2 {
+    height: calc(120vw + 10px);
+    width:100%;
+    justify-content: center; 
+  }
+
 }
  
 
