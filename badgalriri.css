@@ -76,7 +76,7 @@ body{
   }
 
  .column1,.column3{
-   height: calc(180vw + 15px); 
+   height: calc(180vw + 45px); 
    width: 100%;
    justify-content: center;
   }
@@ -84,16 +84,16 @@ body{
   .box { 
     height: 60vw; 
     width: 60vw;
-    margin-top: 5px;
+    margin-top: 15px;
   }
   
   .box1{
     height: 60vw;
     width: 60vw;
-    margin-top: 5px;
+    margin-top: 15px;
   }
   .column2 {
-    height: calc(120vw + 10px);
+    height: calc(120vw + 30px);
     width:100%;
     justify-content: center; 
   }
